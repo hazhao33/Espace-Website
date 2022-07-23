@@ -1,3 +1,5 @@
+<!--Created by Haoxian Zhao and Jinwei Tang-->
+
 <?php
 $server = "localhost";
 $user = "root";
